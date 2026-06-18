@@ -77,10 +77,10 @@ I'm a **Senior Software Engineer** with over **4+ years of experience** building
 *Digital platform for franchise operations, reporting, and growth management*
 
 - **Role**: Core Contributor & Solution Architect
-- **Tech Stack**: React, Node.js, PostgreSQL, AWS, Shopify App, Shopify POS Extension
-- **Key Features**: The Beef Jerky Experience delivers a diverse range of gourmet and exotic jerky, along with small-batch snacks, all within an engaging, hands-on retail environment
-- **Impact**: Streamlined operations, scalable solutions, enhanced franchise management
-- **Focus**: Usability, scalability, real-time performance
+- **Tech Stack**:  19, TypeScript, Node.js, Express, MongoDB, Redis, BullMQ, AWS S3, Shopify App (Remix + Polaris + Prisma), Shopify POS UI Extensions, Shopify Functions, Shopify Webhooks, TanStack Router & Query, Redux Toolkit,Shadcn UI, Tailwind CSS, Recharts, Mailgun, JWT
+- **Key Features**: Multi-tenant franchise & employee management with role-based permissions · Embedded Shopify app with OAuth, GDPR compliance, and webhook processing (orders, products refunds, app lifecycle) · 7 custom Shopify POS UI Extensions — loyalty lookup, gift card issue/reload/redeem, staff PIN verification, inventory transfers, discount application, and product bundles · Custom Shopify Functions for dynamic checkout discounts · Full gift card lifecycle with QR code generation, balance history, and error recovery · Loyalty points engine with accrual, redemption, double-points events, and store credit conversion · Granular order payment breakdown tracking (discounts, gift cards, loyalty, gateway payments) · 15+ automated CRON jobs for daily sales snapshots, SKU/vendor/category performance, royalty reports, inventory audits, and order risk scoring BullMQ background job queue with Bull Board dashboard · Excel/CSV export engine · Royalty configuration engine with automated reporting · CNAME management for white-label storefronts · AWS S3 asset storage with presigned URLs Transactional email via Mailgun · Slack alerts for critical system events · PostHog analytics
+- **Impact**:  manual franchise reporting with fully automated daily stats pipelines · Brought loyalty and gift card programs natively into Shopify POS flow · Gave franchise operators a unified real-time view of sales, inventory, royalties, and team activity across all locations
+- **Focus**:  ecosystem depth, real-time POS integrations, automated data pipelines, scalable multi-tenant architecture
 
 ### 💳 Paymore – Digital Payment & Loyalty Platform
 *Digital platform for franchise operations, reporting, and growth management*
