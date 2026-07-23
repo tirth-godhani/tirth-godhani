@@ -130,7 +130,7 @@ Focus: CSS, jQuery, web development fundamentals
 
 - **[LinkedIn](https://www.linkedin.com/in/tirth-godhani/)**
 - **[Portfolio](https://tirthgodhani.dev)**
-- **[Email](mailto:your-real-email@domain.com)**
+- **[Email](mailto:tirthgodhani98@gmail.com)**
 
 **Open to**: Senior Software Engineering roles · Full-stack development projects · Technical consulting & architecture reviews · Open source collaboration
 
